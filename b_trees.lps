@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="b_trees.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="296"/>
+        <CursorPos X="20" Y="324"/>
+        <FoldState Value=" TJ11Z T3e0y312 pjSqM0E3 T0t10{L_"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="159" TopLine="140"/>
+      </Position1>
+      <Position2>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="161" TopLine="140"/>
+      </Position2>
+      <Position3>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="327" Column="18" TopLine="192"/>
+      </Position3>
+      <Position4>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="171" Column="54"/>
+      </Position4>
+      <Position5>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="2" Column="11"/>
+      </Position5>
+      <Position6>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="32" Column="8"/>
+      </Position6>
+      <Position7>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="40" Column="13"/>
+      </Position7>
+      <Position8>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="49" Column="36"/>
+      </Position8>
+      <Position9>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="53" Column="18"/>
+      </Position9>
+      <Position10>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="75" Column="36" TopLine="51"/>
+      </Position10>
+      <Position11>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="77" Column="19" TopLine="53"/>
+      </Position11>
+      <Position12>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="115" Column="44" TopLine="81"/>
+      </Position12>
+      <Position13>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="143" Column="63" TopLine="115"/>
+      </Position13>
+      <Position14>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="161" Column="37" TopLine="136"/>
+      </Position14>
+      <Position15>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="169" Column="71" TopLine="145"/>
+      </Position15>
+      <Position16>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="207" Column="71" TopLine="182"/>
+      </Position16>
+      <Position17>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="219" Column="43" TopLine="192"/>
+      </Position17>
+      <Position18>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="227" Column="53" TopLine="200"/>
+      </Position18>
+      <Position19>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="253" Column="49" TopLine="244"/>
+      </Position19>
+      <Position20>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="276" Column="33" TopLine="252"/>
+      </Position20>
+      <Position21>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="297" Column="35" TopLine="271"/>
+      </Position21>
+      <Position22>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="101" Column="27"/>
+      </Position22>
+      <Position23>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="183" Column="30" TopLine="169"/>
+      </Position23>
+      <Position24>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="187" Column="33" TopLine="173"/>
+      </Position24>
+      <Position25>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="404" TopLine="160"/>
+      </Position25>
+      <Position26>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="312" Column="21" TopLine="241"/>
+      </Position26>
+      <Position27>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="350" Column="27" TopLine="337"/>
+      </Position27>
+      <Position28>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="312" Column="7" TopLine="233"/>
+      </Position28>
+      <Position29>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="405" TopLine="190"/>
+      </Position29>
+      <Position30>
+        <Filename Value="b_trees.pas"/>
+        <Caret Line="146" TopLine="144"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="CurrentItems"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>
